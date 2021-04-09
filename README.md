@@ -1,4 +1,4 @@
-# AStack
+# AQueue
 
-An implementation of the Stack ADT using array, in the style
+An implementation of the Queue ADT using array, in the style
 of the OpenDSA book.
